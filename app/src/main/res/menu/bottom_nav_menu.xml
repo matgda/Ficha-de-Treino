@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_lista"
+        android:icon="@drawable/ic_list_black_24dp"
+        android:title="Lista"/>
+
+    <item
+        android:id="@+id/navigation_adicionar"
+        android:icon="@drawable/ic_add_box_black_24dp"
+        android:title="Adicionar"/>
+
+    <item
+        android:id="@+id/navigation_time"
+        android:icon="@drawable/ic_timer_black_24dp"
+        android:title="Cronometro"/>
+
+</menu>
